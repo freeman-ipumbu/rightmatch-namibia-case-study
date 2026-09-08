@@ -35,6 +35,9 @@ RightMatch explores a more accountable model: help the right people find the rig
 - Fair-price guidance based on vehicle class, with deposits, mileage, cover and fees shown separately.
 - Trust-based loyalty tiers that reward consistently responsible participation.
 - Consent-backed early-access registration protected against automated abuse.
+- A role-gated operations control room for verification, deal, support and incident oversight.
+- Named executive access protected by multi-factor authentication and one-time recovery codes.
+- Exportable management snapshots, registration sheets and attributable audit history.
 
 ## Design science approach
 
@@ -83,6 +86,8 @@ The build includes:
 - consent and lifecycle records;
 - duplicate-safe, retryable transactional messages;
 - private storage boundaries for future evidence uploads;
+- named workforce access with enforced multi-factor authentication;
+- tamper-evident operational history and spreadsheet-ready reporting;
 - health checks, backup planning and operational readiness documentation.
 
 ## Current status
