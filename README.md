@@ -27,6 +27,7 @@ RightMatch explores a more accountable model: help the right people find the rig
 ## The product response
 
 - A purpose-led vehicle marketplace for errands, family use, deliveries, gig work and trade.
+- A broader illustrative vehicle range spanning compact hatchbacks, sedans, bakkies, crossovers, panel vans, minibuses and road-trip-ready SUVs.
 - Structured owner and vehicle onboarding with explicit information requirements.
 - A Trust Passport that communicates useful verification signals without exposing private identity data.
 - Clear owner–renter terms and prominent explanations of RightMatch's facilitator role.
@@ -70,9 +71,15 @@ RightMatch is the platform and evidence layer. Each rental remains a direct agre
 
 The interface uses a restrained Namibian palette, warm editorial typography and focused interaction cues. The aim is to feel dependable and local without becoming institutional or visually heavy.
 
-| Everyday mobility | Work-ready vehicles | Longer journeys |
+| Everyday mobility | Family flexibility | Work-ready vehicles |
 |---|---|---|
-| ![Toyota Corolla](assets/vehicles/corolla.jpg) | ![Toyota Hilux](assets/vehicles/hilux.jpg) | ![Toyota Fortuner](assets/vehicles/fortuner.jpg) |
+| ![Compact hatchback in Windhoek](assets/vehicles/swift.jpg) | ![Compact crossover in Windhoek](assets/vehicles/tcross.jpg) | ![Panel van in Windhoek](assets/vehicles/transit-custom.jpg) |
+
+| City and business use | Bakkie capability | Longer journeys |
+|---|---|---|
+| ![Toyota Corolla](assets/vehicles/corolla.jpg) | ![Toyota Hilux](assets/vehicles/hilux.jpg) | ![Seven-seat 4x4 outside Windhoek](assets/vehicles/prado.jpg) |
+
+All marketplace vehicle photographs shown in the public preview are original AI-generated demonstration assets. They are labelled as illustrative in the product and are never presented as a specific owner’s vehicle, evidence or live availability.
 
 ## Engineering overview
 
@@ -92,7 +99,7 @@ The build includes:
 
 ## Current status
 
-RightMatch Namibia is live as a controlled early-access preview. Public users can explore the product direction and register interest. Payments, live bookings and document submission remain gated until the corresponding legal, insurance, identity and operational safeguards are approved.
+RightMatch Namibia is live as a controlled early-access preview. The upgraded homepage now provides dedicated owner and renter paths, a founder-led product story, a transparent owner-proceeds estimator, a Trust Centre preview and a wider Namibia-focused vehicle demonstration range. Public users can explore the product direction and register interest. Payments, live bookings and document submission remain gated until the corresponding legal, insurance, identity and operational safeguards are approved.
 
 ## Repository boundary
 
