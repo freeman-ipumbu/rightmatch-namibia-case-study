@@ -2,11 +2,11 @@
 
 ![RightMatch Namibia](assets/og.png)
 
-**A trust-first peer-to-peer vehicle marketplace designed for Namibia.**
+**A trust-first vehicle-sharing marketplace for Namibian renters, owners and growing businesses.**
 
 [Visit the live product](https://rightmatchnamibia.com) · [Contact RightMatch](mailto:info@rightmatchnamibia.com)
 
-RightMatch helps vehicle owners turn underused cars into income while giving renters a clearer, safer way to find the right vehicle for the job. The product is built around a simple reality: risk cannot be eliminated from a vehicle transaction, but good verification, explicit terms and a dependable evidence trail can make every decision more informed.
+RightMatch helps vehicle owners turn underused cars into income, gives renters a clearer way to find the right vehicle for real life and gives small or growing businesses access to work-ready transport without first buying a fleet. The product is built around a simple reality: risk cannot be eliminated from a vehicle transaction, but good verification, explicit terms and a dependable evidence trail can make every decision more informed.
 
 > This is a public product case study. The production application, backend, infrastructure configuration and operational security controls remain in a separate private repository.
 
@@ -27,6 +27,10 @@ RightMatch explores a more accountable model: help the right people find the rig
 ## The product response
 
 - A purpose-led vehicle marketplace for errands, family use, deliveries, gig work and trade.
+- Dedicated renter, owner and small-business paths, with business interest captured separately from consumer rental demand.
+- A three-part homepage story that explains how people can rent, earn or keep a business moving.
+- A six-vehicle featured view backed by a wider 24-vehicle demonstration fleet, with discovery by purpose and place.
+- A transparent owner-income calculator placed early in the journey so owners can understand potential proceeds before registering interest.
 - A broader illustrative vehicle range spanning compact hatchbacks, sedans, bakkies, crossovers, panel vans, minibuses and road-trip-ready SUVs.
 - Structured owner and vehicle onboarding with explicit information requirements.
 - A Trust Passport that communicates useful verification signals without exposing private identity data.
@@ -47,7 +51,7 @@ The work followed an iterative design science cycle:
 1. **Problem framing** — identify the trust, access and accountability gaps in informal vehicle rental.
 2. **Objectives** — create added peace of mind without pretending risk can be eliminated.
 3. **Artefact design** — combine marketplace discovery with verification, consent and evidence mechanisms.
-4. **Demonstration** — build realistic renter, owner and completed-deal journeys.
+4. **Demonstration** — build realistic renter, owner, small-business and completed-deal journeys.
 5. **Evaluation** — test clarity, responsiveness, failure states, data boundaries and production readiness.
 6. **Iteration** — simplify language and interactions while strengthening the operational paper trail.
 
@@ -67,9 +71,9 @@ RightMatch is the platform and evidence layer. Each rental remains a direct agre
 
 ## Selected screens
 
-![RightMatch landing experience](assets/rightmatch-hero.png)
+![RightMatch pathways for renters, owners and growing businesses](assets/rightmatch-hero.png)
 
-The interface uses a restrained Namibian palette, warm editorial typography and focused interaction cues. The aim is to feel dependable and local without becoming institutional or visually heavy.
+The refreshed public story makes the product’s three pathways visible at a glance: rent the right vehicle, earn from the car you own or keep a business moving without buying a fleet. The interface uses a restrained Namibian palette, warm editorial typography and focused interaction cues so the system feels dependable and local without becoming institutional or visually heavy.
 
 | Everyday mobility | Family flexibility | Work-ready vehicles |
 |---|---|---|
@@ -99,7 +103,7 @@ The build includes:
 
 ## Current status
 
-RightMatch Namibia is live as a controlled early-access preview. The upgraded homepage now provides dedicated owner and renter paths, a founder-led product story, a transparent owner-proceeds estimator, a Trust Centre preview and a wider Namibia-focused vehicle demonstration range. Public users can explore the product direction and register interest. Payments, live bookings and document submission remain gated until the corresponding legal, insurance, identity and operational safeguards are approved.
+RightMatch Namibia is live as a controlled early-access preview. The upgraded homepage now provides dedicated renter, owner and small-business paths; an interactive three-part product story; an early, transparent owner-income calculator; purpose-led discovery with six featured vehicles and a wider 24-vehicle Namibia-focused demonstration fleet; a founder-led explainer; and a Trust Centre preview. Public users can explore the product direction and register interest, including a distinct business pathway. Payments, live bookings and document submission remain gated until the corresponding legal, insurance, identity and operational safeguards are approved.
 
 ## Repository boundary
 
