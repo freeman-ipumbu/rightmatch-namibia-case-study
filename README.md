@@ -121,3 +121,5 @@ Please report security concerns privately to [info@rightmatchnamibia.com](mailto
 ---
 
 © 2026 RightMatch Namibia. Product concept and implementation documentation are shared for portfolio viewing. No licence is granted to reproduce the product, branding or documentation.
+
+RightMatch Namibia was co-founded by Freeman Ipumbu and Johny Kahuva. This case study documents Freeman's product, design and engineering contribution; related systems are collected in the [SolarSpin Technologies public work atlas](https://www.solarspin-namibia.xyz/).
